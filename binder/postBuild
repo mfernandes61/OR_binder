@@ -2,7 +2,7 @@
 set -e
 
 # Download OpenRefine https://github.com/OpenRefine/OpenRefine/
-wget -q https://oss.sonatype.org/service/local/artifact/maven/content?r=snapshots&g=org.openrefine&a=openrefine&v=3.6-SNAPSHOT&c=linux&p=tar.gz
+wget -q 'https://oss.sonatype.org/service/local/artifact/maven/content?r=snapshots&g=org.openrefine&a=openrefine&v=3.6-SNAPSHOT&c=linux&p=tar.gz'
 mv *.tar.gz openrefine.tar.gz
 mkdir -p $HOME/.openrefine # app
 tar -xzf openrefine.tar.gz -C $HOME/.openrefine --strip 1
