@@ -1,7 +1,9 @@
 # openrefineder
 💠 + 📚 OpenRefine on Binder!
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/betatim/openrefineder/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mfernandes61/OR_binder/master)
+# https://mybinder.org/v2/gh/mfernandes61/OR_binder/master
+
 
 Small demo of using [OpenRefine](http://openrefine.org/) on binder.
 Still under 👷🚧🏗!
@@ -10,7 +12,9 @@ Still under 👷🚧🏗!
 
 ## Quickstart
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/betatim/openrefineder/master?urlpath=%2Fopenrefine) (launch binder with option urlpath=/openrefine)
+[![Binder](https://mybinder.org/badge.svg)]
+(https://mybinder.org/v2/gh/mfernandes61/OR_binder/master?urlpath=%2Fopenrefine) 
+# (https://mybinder.org/v2/gh/betatim/openrefineder/master?urlpath=%2Fopenrefine) (launch binder with option urlpath=/openrefine)
 
 ## From JupyterLab home screen
 
